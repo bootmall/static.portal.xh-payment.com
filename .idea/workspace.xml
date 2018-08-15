@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ed1658-4c98-457d-801b-281dd3c2adbc" name="Default" comment="" />
+    <list default="true" id="78ed1658-4c98-457d-801b-281dd3c2adbc" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -82,111 +84,54 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="CREATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.0597afc3f3570deff696c8a9cdbe4a72.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.4d7782824d3cdffe3ef31b3bf7534ee7.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.667ace12279bc1842f7fb5855b79e4c3.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.8068b58ddebf16e2a05f2aa6d450ab5a.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/css/app.c91a4aefaaa577bf08d77076f04ecf1a.css</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/10.fb6d97c513bd8eb3d5f9.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/11.42305b9efe4687590479.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/12.17a58b741c830c240d86.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/14.6d722b19ad454956613f.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/14.aef6ad316ae5a6f2da21.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/15.f8277eaf8119532d3b84.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/16.f190f884f25b228596dd.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/17.77c42e8bd1f5aab44231.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/17.b7eb30a1a1ea79c71869.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/18.4c2dff6960c83b67b81c.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/18.705d0333fbcad5f2f6a6.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/19.67d621942a9292a44141.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/19.70824e801433be0c7c21.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/20.7edd29058c46881d5be1.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/20.87c2394c74a781cc52b8.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/21.f430fc0ca480464212a7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/21.f942ea55989002e2a1d4.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/22.3ceeaefde9ec8b200eb7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/22.99527f0c4780e40649f8.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/23.165e9f85d26f3d99dbfb.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/23.4a0a92be88a0b5d9f5e8.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/24.40788ce40e42ae90d087.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/24.82822433a78d2aa29254.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/24.908e10aad3068def51ed.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/25.cbaaa552771a607b5e01.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/25.d4f30b3522a244ad6409.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/25.e4486df4909700c6d9ad.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/25.edab2910a6fccd82481a.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/25.f07cb3393daae569b6a0.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/26.ec7f891f8cb48adf925b.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/27.a9b2da59c75847d8a03a.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/28.d7c60b572baa2af9de31.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/29.51831ea746eecc7e6c3b.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/3.0b8b4829e2064767c668.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/3.1ab64d5fa28c5e211402.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/3.36abcbedca05fc9ebd7c.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/3.88f7f33c51c922f96202.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/30.1b5c968eca296bba9b7c.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/31.2f64d0799a108179ac60.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/32.108d788f202c3478992f.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/33.abcdc5c2adf82e679c48.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/34.6675687c87c5039705af.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/35.025416061b1a3223c47b.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/35.6bea85216dff80760137.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/35.e9dc79e9822806a8eaa9.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/36.075fedfce91c59df16b6.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/37.55bec63052e36657259e.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/38.1b197b9433c5349accda.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/39.8fa84430bdced7378604.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/40.60d23b0c12303a8e773b.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/41.be4e3fc1e36944c22cad.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/42.65749f6a07615a9fab00.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/43.1f33a23831d9b175c188.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/49.b47dd2de2b5ff0a8a26d.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/54.e3a48ca7ce38b3295a38.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/56.48193216326c164f4327.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/57.370a1d0ede6e90da2d33.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/57.3ff774ae897a2d0205e3.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/58.a203d3411f367fec2244.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/58.f858b9a009dcc5ea01e7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/59.44ec7186bbac232298e4.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/59.465a1ce758275538ea60.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/60.cb984113b4639136fbb4.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/60.fe70153ae3fd4bf107f1.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/61.13d5200c65391b078acb.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/61.a7caac6e54650955c90d.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/62.44bf0c9769d9294bde98.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/62.74c53daa3c1d45cb6166.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/63.0c2037d899757c1e6c15.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/63.871524d16449d8b85c2a.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/63.921f9b1c5fe8be46f24c.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/63.9837ad9f9e5d53ec66b9.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/64.022c9007d0ef2b10e220.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/64.fbc5bc6c71d97cce35e7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/65.8a306f1397aa1bf136ad.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/66.679c60047e6be69f0669.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/67.2969f274ca775b2a4353.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/68.1b2d3ce98f2d40d0d617.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/7.20c4d3352deb3ea6f823.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/8.2f7c2238fe32e96e1990.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/9.3f40a47ca9df87f7b99f.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.596f885a0394015bae76.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.65604476a0f4033adb2c.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.82419e9c451de9daf55f.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.af542f509c403ee8b764.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.db05b5fcda063c5b38b4.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.31143f11bff638bce490.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.6f9cc0b6622ba5694578.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.9b98b8d1861d91c883aa.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.a142a439ae9f2e6605ef.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.a6c13eaeca6e1652b054.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.abd3722aa62ce4cbbf80.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.b516a0d7391222f558db.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.bd0b9bbbd8d28a3828a7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.d7ada7431d637de0f006.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.db203b03553f2cee79cd.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.e47cd30610f7530006e2.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.e697412900420c79b3c7.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/vendor.bd09367954690e73d9a4.js</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/vendor.c92f2379453fa84bc334.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/1.4c459a529b02a4ad83f1.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/10.68723173f0eb817b2368.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/11.738c384e9600b59c582d.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/13.2272d5c29f7880f6ee07.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/13.fc33745a7d71e03af308.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/14.8510c5d329d05076847e.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/15.e0a08e441d1c7b4e148d.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/16.012406b313b7bdc862e8.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/17.61194295f3f0ce923297.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/18.dff2ec7ecfa07310d709.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/19.44f256253897a751b23e.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/19.95611a51bbab53605c02.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/20.6ba366bff34ddfea498c.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/21.775abb51939b6d09aa1d.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/21.ec576c79aa04f702c073.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/22.d7c548e0de101d5a3d67.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/23.7f400bd0109cade44a52.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/24.5938c0f1e2f41e50ced4.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/26.1ba481d2944177122db0.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/27.4ae7bd8c2ac7f3b2e457.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/28.3f39350992839ac9a0b3.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/29.25a5e1e31e3806d96ca9.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/30.9e7fede596728a8bbf09.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/31.9b659604114e7cd77a1a.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/32.de2752fffb218a1792cc.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/33.304f02ae69d3899ec718.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/34.0545ba5a48de18130ad9.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/35.9834a81d5e06f00e964a.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/36.d1a2797ea960402a040a.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/37.38a24fff0c477aeb15cd.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/38.d56b6819bf0c4bd75c50.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/39.c2e4b8d006d79da2c326.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/40.a832d38528aec6223199.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/41.e35d1d49c9e3feb0ec2a.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/42.cfe141696646478f07ad.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/43.2e06fa5b99e2a358ed74.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/51.4569ac89acb075cc0ca6.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/6.b4805dc3940646a3337c.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/60.3240decafd5c93b65579.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/61.2b4eb83270949f93df34.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/62.77d4611c930440a5a4b0.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/63.16c80c9d47f1ff7e924b.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/7.f7e4f3520ddff070f627.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/8.85d640dae9d64cfbf0ab.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/9.ada47b5b1a948d0f95a5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/app.e8161a50b4515eb847e5.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.0b68ff7ffb5b2e878d65.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/static/js/manifest.f0829ef46b4c8071de81.js</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
           <option name="myUpdateName" value="Deleted" />
@@ -298,16 +243,15 @@
       <option name="presentableId" value="Default" />
       <updated>1533728655143</updated>
       <workItem from="1533728656513" duration="23000" />
-      <workItem from="1534326274705" duration="1590000" />
+      <workItem from="1534326274705" duration="2301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1613000" />
+    <option name="totallyTimeSpent" value="2324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1628" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17339218" />
       <window_info anchor="bottom" id="TODO" order="6" />
